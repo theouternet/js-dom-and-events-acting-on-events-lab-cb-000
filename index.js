@@ -8,3 +8,6 @@ preventRefreshOnSubmit()
 
 
 
+let input = document.querySelector('input')
+
+function retrieve
